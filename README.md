@@ -4,4 +4,4 @@ It is my first big project. It is an NFT marketplace called "Artopita" that user
 - List any NFTS they own by providing the nft contract address and the token id that this user owns.
 - Stake their NFT and earn a reward ERC20 tokens.
 
-![Artopia NFT marketplace](Artopita's_home.PNG)
+![Artopia NFT marketplace](Artopita's_home_page.PNG)
