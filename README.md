@@ -1,13 +1,7 @@
-# Sample Hardhat Project
+It is my first big project. It is an NFT marketplace called "Artopita" that users can:
+- Create and mint their own NFTS.
+- List their NFTS on the marketplace (explore page). Users can trade (buy and sell) NFTS.
+- List any NFTS they own by providing the nft contract address and the token id that this user owns.
+- Stake their NFT and earn a reward ERC20 tokens.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+![Artopia NFT marketplace](Artopita's home.PNG)
