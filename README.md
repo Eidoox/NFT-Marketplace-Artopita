@@ -10,6 +10,6 @@ It is my first big project. It is an NFT marketplace called "Artopita" that user
 ![Artopia NFT marketplace](media/Artopita_home_page.PNG)
 
 
-I deployed the smart contracts on remix to be easy to use the ganache accounts for testing.
+I deployed the smart contracts on remix to be easy to use on the demo video
 Solidity codes on the solidity projects repository [NFT marketplace solidity code](https://github.com/Eidoox/Smart-contracts-solidity-projects/tree/main/NFT%20Marketplace)
  
