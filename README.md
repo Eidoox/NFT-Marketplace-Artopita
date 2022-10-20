@@ -1,4 +1,6 @@
-Check the [demo video](https://www.linkedin.com/feed/update/urn:li:activity:6979464941334343680/)
+## [Demo video](https://www.linkedin.com/feed/update/urn:li:activity:6979464941334343680/)
+## [Artopita Live Website](https://artopita-nftmarketplace.vercel.app/)
+
 
 It is my first big project. It is an NFT marketplace called "Artopita" that users can:
 - Create and mint their own NFTS.
