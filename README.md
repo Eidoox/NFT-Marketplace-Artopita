@@ -1,4 +1,4 @@
-## [Demo video](https://www.linkedin.com/feed/update/urn:li:activity:6979464941334343680/)
+## [Demo video](https://drive.google.com/file/d/16xwbx4_oXehkCXfWIsUop5-AvW1FttRS/view?usp=sharing)
 ## [Artopita Live Website](https://artopita-nftmarketplace.vercel.app/)
 
 
